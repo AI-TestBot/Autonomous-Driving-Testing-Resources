@@ -62,6 +62,12 @@ CVPR, 2020.
 *X Zhang, J Tao, K Tan, M Törngren, et al.*<br>
 ArXiv, 2021.
 
+## Multi-model
+
+**Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving.**<br>
+*Z Zhong, Z Hu, S Guo, X Zhang, Z Zhong, et al.*<br>
+ArXiv, 2022.
+
 ## Black box test
 
 **Deeptest: Automated testing of deep-neural-network-driven autonomous cars.**<br>
@@ -75,12 +81,6 @@ RAL, 2020.
 **Testing deep learning based visual perception for automated driving.**<br>
 *S Abrecht, L Gauerhof, C Gladisch, K Groh, et al.*<br>
 ACM Transactions on Cyber-Physical Systems, 2021.
-
-## Multi-model
-
-**Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving.**<br>
-*Z Zhong, Z Hu, S Guo, X Zhang, Z Zhong, et al.*<br>
-ArXiv, 2022.
 
 ## White box test
 
