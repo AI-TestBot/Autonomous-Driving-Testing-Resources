@@ -6,13 +6,17 @@
 *Z Zhong, Y Tang, Y Zhou, VO Neves, Y Liu, et al.*<br>
 ArXiv, 2021.
 
-**An investigation into the state-of-the-practice autonomous driving testing.**<br>
-*G Lou, Y Deng, X Zheng, T Zhang, M Zhang.*<br>
-ArXiv, 2021.
-
 **自动驾驶智能系统测试研究综述.**<br>
 *朱向雷， 王海弛， 尤翰墨， 张蔚珩， 张颖异， 刘爽, et al.*<br>
 软件学报, 2021.
+
+**Testing of autonomous driving systems: where are we and where should we go?**<br>
+*G Lou, Y Deng, X Zheng, M Zhang, T Zhang.*<br>
+Proceedings of the 30th ACM Joint European Software Engineering Conference, 2022.
+
+**A Survey on Automated Driving System Testing: Landscapes and Trends.**<br>
+*S Tang, Z Zhang, Y Zhang, J Zhou, Y Guo, S Liu, S Guo, YF Li, L Ma, et al.*<br>
+ACM Transactions on Software Engineering and Methodology, 2023.
 
 ## DataSets
 
@@ -62,11 +66,23 @@ CVPR, 2020.
 *X Zhang, J Tao, K Tan, M Törngren, et al.*<br>
 ArXiv, 2021.
 
+**MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm.**<br>
+*H Tian, Y Jiang, G Wu, J Yan, J Wei, W Chen, S Li, D Ye.*<br>
+Proceedings of the 30th ACM Joint European Software Engineering Conference, 2022.
+
+**Neural network guided evolutionary fuzzing for finding traffic violations of autonomous vehicles.**<br>
+*Z Zhong, G Kaiser, B Ray.*<br>
+IEEE Transactions on Software Engineering, 2022.
+
 ## Multi-model
+
+**Invisible for both camera and lidar: Security of multi-sensor fusion based perception in autonomous driving under physical-world attacks.**<br>
+*Y Cao, N Wang, C **ao, D Yang, J Fang, R Yang, QA Chen, M Liu, B Li.*<br>
+2021 IEEE symposium on security and privacy (SP), 2021.
 
 **Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving.**<br>
 *Z Zhong, Z Hu, S Guo, X Zhang, Z Zhong, et al.*<br>
-ArXiv, 2022.
+ISSTA, 2022.
 
 ## Black box test
 
